@@ -3,11 +3,9 @@
 <div align="center">
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
 
-  [![Sathira GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sathirapramudith123&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Sathira github stats](https://github-readme-stats.vercel.app/api?username=sathirapramudith123&show_icons=true&theme=tokyonight) | ![sathira GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathirapramudith123&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathirapramudith123&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sathirapramudith123&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathirapramudith123&label=Profile%20views&color=0e75b6&style=flat" alt="sathirapramudith123" /> </p>

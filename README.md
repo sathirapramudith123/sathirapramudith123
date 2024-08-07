@@ -15,7 +15,8 @@
 
 
 
-- 📫 How to reach me **sathirapramudith1@gmail.com**
+
+
  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
@@ -24,6 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ - 📫 How to reach me **sathirapramudith1@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

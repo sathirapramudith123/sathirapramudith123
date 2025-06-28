@@ -1,5 +1,5 @@
-<center><img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " /></center>
 
+![github-ppic](https://github.com/user-attachments/assets/686db74a-0c4a-4cf4-afa8-2d48c242a96f)
 
 <h1 align="center">Hi 👋, I'm Sathira Pramudith</h1>
 

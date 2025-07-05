@@ -9,12 +9,7 @@
 
 # 💻 Tech Stack:
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <img 
-    src="https://github.com/user-attachments/assets/d3b5c1f7-ce45-40d5-8be9-ce9599113d14" 
-    alt="Daft Punktocat" 
-    width="150" 
-    height="150"
-  />
+  
   <div style="margin-top: 20px; text-align: center;">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />

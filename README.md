@@ -53,14 +53,14 @@ Open to suggestions, feedback, and teamwork.
 - [Portfolio](https://portfolio-blond-three-uy7ctuyywc.vercel.app/)  
 - (Add other socials if needed)  
 
----
+
 
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sathirapramudith123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 

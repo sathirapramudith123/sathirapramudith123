@@ -49,7 +49,7 @@ Open to suggestions, feedback, and teamwork.
 ---
 
 ## 📌 Contact / Socials  
-- [LinkedIn](https://www.linkedin.com/in/sathira-pramudith)  
+- [LinkedIn](https://www.linkedin.com/in/sathira-pramudith-805284318/)  
 - [Portfolio](https://portfolio-blond-three-uy7ctuyywc.vercel.app/)  
 - (Add other socials if needed)  
 

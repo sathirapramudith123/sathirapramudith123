@@ -25,8 +25,8 @@ Here are some of the notable public repositories:
 | 4 | object-detect-system | A Python-based object detection / AI experiment |
 | 5 | Spring-Boot-AI | A Spring Boot + React project demonstrating AI features |
 | 6 | Data-Sciences-Analytics | Jupyter Notebook-based data science & analytics work |
+| 7 | Chess Game | Java |
 
-> _Feel free to explore other repos — there are more in my profile._
 
 ---
 

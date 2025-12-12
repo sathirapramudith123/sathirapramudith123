@@ -14,21 +14,7 @@ MySQL · MongoDB · Microsoft SQL Server · Git · Apache · Google Cloud Platfo
 
 ---
 
-## 📂 Projects & Repositories  
-Here are some of the notable public repositories:
 
-| # | Project | Description / Notes |
-|---|--------|----------------------|
-| 1 | TODO-app-android-studio | A CRUD-based Android TODO application using Kotlin |
-| 2 | Task-Manager-Application | A Kotlin + SQLite task manager app |
-| 3 | Todo-list-Application | A C++ desktop/mobile(?) TODO list project |
-| 4 | object-detect-system | A Python-based object detection / AI experiment |
-| 5 | Spring-Boot-AI | A Spring Boot + React project demonstrating AI features |
-| 6 | Data-Sciences-Analytics | Jupyter Notebook-based data science & analytics work |
-| 7 | Chess Game | Java |
-
-
----
 
 ## 📈 What I’m Working On / Interested In  
 - Building full-stack web/mobile applications  

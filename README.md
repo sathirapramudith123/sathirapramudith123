@@ -1,5 +1,4 @@
 
-![github-ppic](https://github.com/user-attachments/assets/686db74a-0c4a-4cf4-afa8-2d48c242a96f)
 
 <h1 align="center">Hi 👋, I'm Sathira Pramudith</h1>
 
@@ -37,7 +36,7 @@ Open to suggestions, feedback, and teamwork.
 ## 📌 Contact / Socials  
 - [LinkedIn](https://www.linkedin.com/in/sathira-pramudith-805284318/)  
 - [Portfolio](https://portfolio-blond-three-uy7ctuyywc.vercel.app/)  
-- (Add other socials if needed)  
+  
 
 
 

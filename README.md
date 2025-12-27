@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathira Pramudith</h1>
+
 ![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/62977ee2-87f0-4bbc-8bc0-c0c305d2eee5)
 
 
@@ -37,11 +38,6 @@ Open to suggestions, feedback, and teamwork.
 - [Portfolio](https://portfolio-blond-three-uy7ctuyywc.vercel.app/)  
   
 
-
-
-
-
----
 [![](https://visitcount.itsvg.in/api?id=sathirapramudith123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 

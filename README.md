@@ -10,10 +10,6 @@
 Lnguage: Java, Puthon, JavaScripts, HTML/CSS, Kotlin,   
 Database: MySQL, MongoDB, PostgerSQL
 
----
-
-
-
 ## 📈 What I’m Working On / Interested In  
 - Building full-stack web/mobile applications  
 - Exploring backend services, REST APIs, and databases  
@@ -24,13 +20,11 @@ Database: MySQL, MongoDB, PostgerSQL
 I love building tools that solve real-world problems or help organize everyday tasks (like TODO lists / task managers).  
 I also enjoy experimenting with AI/data science to understand patterns and possibilities beyond traditional applications.  
 
----
 
 ## 🤝 Contributing / Collaboration  
 If you’d like to collaborate or contribute — for example via bug fixes, improved features, or new project ideas — feel free to reach out via GitHub, LinkedIn or other socials.  
 Open to suggestions, feedback, and teamwork.  
 
----
 
 ## 📌 Contact / Socials  
 - [LinkedIn](https://www.linkedin.com/in/sathira-pramudith-805284318/)  

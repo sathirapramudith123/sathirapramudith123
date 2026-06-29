@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sathira Pramudith</h1>
 
-## 🔧 About Me  
-I am an Information Technology undergraduate student at SLIIT, Sri Lanka.  
-Currently exploring web / mobile / full stack development  and AI-related projects.  
+## 🔧 About Me
+- 🎓 Information Technology undergraduate at **SLIIT, Sri Lanka**
+- 🌱 Currently exploring **web / mobile / backend development** and **AI-related projects**
+- 💬 Ask me about full-stack development, REST APIs, and databases
+- ⚡ Fun fact: I love turning everyday problems into clean, useful tools
 
 ## 🚀 Tech Stack  
 Lnguage: Java, Puthon, JavaScripts, HTML/CSS, Kotlin,   

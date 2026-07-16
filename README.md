@@ -7,9 +7,9 @@
 - ⚡ Fun fact: I love turning everyday problems into clean, useful tools
 
 ## 🚀 Tech Stack  
-Lnguage: Java, Puthon, JavaScripts, HTML/CSS/JavaScript, Kotlin
-Database: MySQL, MongoDB, PostgerSQL
-Tools: VSCode, Android Studio, Git, Eclipce, VS Studio
+ - Lnguage: Java, Puthon, JavaScripts, HTML/CSS/JavaScript, Kotlin
+ - Database: MySQL, MongoDB, PostgerSQL
+ - Tools: VSCode, Android Studio, Git, Eclipce, VS Studio
 
 ## 📈 What I’m Working On / Interested In  
 - Building full-stack web/mobile applications  

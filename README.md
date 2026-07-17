@@ -13,9 +13,9 @@
 
 ## 🚀 Tech Stack
 
-**Languages:** Java, Python, JavaScript, HTML/CSS, Kotlin
-**Databases:** MySQL, MongoDB, PostgreSQL
-**Tools:** VS Code, Android Studio, Git, Eclipse, Visual Studio
+- **Languages:** Java, Python, JavaScript, HTML/CSS, Kotlin
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools:** VS Code, Android Studio, Git, Eclipse, Visual Studio
 
 ## 📈 What I'm Working On
 

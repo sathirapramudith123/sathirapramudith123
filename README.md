@@ -1,42 +1,38 @@
 <h1 align="center">Hi 👋, I'm Sathira Pramudith</h1>
 
+<p align="center">Information Technology undergraduate • Full-stack & AI enthusiast • Sri Lanka 🇱🇰</p>
+
+---
+
 ## 🔧 About Me
+
 - 🎓 Information Technology undergraduate at **SLIIT, Sri Lanka**
 - 🌱 Currently exploring **web / mobile / backend development** and **AI-related projects**
-- 💬 Ask me about full-stack development, REST APIs, and databases
+- 💬 Ask me about **full-stack development, REST APIs, and databases**
 - ⚡ Fun fact: I love turning everyday problems into clean, useful tools
 
-## 🚀 Tech Stack  
- - Lnguage: Java, Puthon, JavaScripts, HTML/CSS/JavaScript, Kotlin
- - Database: MySQL, MongoDB, PostgerSQL
- - Tools: VSCode, Android Studio, Git, Eclipce, VS Studio
+## 🚀 Tech Stack
 
-## 📈 What I’m Working On / Interested In  
-- Building full-stack web/mobile applications  
-- Exploring backend services, REST APIs, and databases  
-- Working with data science / machine learning / AI-related projects  
-- Learning new technologies and improving coding practices  
+**Languages:** Java, Python, JavaScript, HTML/CSS, Kotlin
+**Databases:** MySQL, MongoDB, PostgreSQL
+**Tools:** VS Code, Android Studio, Git, Eclipse, Visual Studio
 
-## 💡 Why These Projects / What’s My Motivation  
-I love building tools that solve real-world problems or help organize everyday tasks (like TODO lists / task managers).  
-I also enjoy experimenting with AI/data science to understand patterns and possibilities beyond traditional applications.  
+## 📈 What I'm Working On
 
+- 🏗️ Building full-stack web & mobile applications
+- 🔌 Exploring backend services, REST APIs, and databases
+- 🤖 Working on data science / machine learning / AI-related projects
+- 📚 Learning new technologies and improving my coding practices
 
-## 🤝 Contributing / Collaboration  
-If you’d like to collaborate or contribute — for example via bug fixes, improved features, or new project ideas — feel free to reach out via GitHub, LinkedIn or other socials.  
-Open to suggestions, feedback, and teamwork.  
+## 💡 What Motivates Me
 
+I love building tools that solve real-world problems or help organize everyday tasks (like TODO lists and task managers). I also enjoy experimenting with AI and data science to understand patterns and possibilities beyond traditional applications.
 
-## 📌 Contact / Socials  
-- [LinkedIn](https://www.linkedin.com/in/sathira-pramudith-805284318/)  
-- [Portfolio](https://portfolio-blond-three-uy7ctuyywc.vercel.app/)  
-  
+## 🤝 Collaboration
 
+Open to collaboration — whether it's bug fixes, new features, or fresh project ideas. Feel free to reach out through any of the links below. Suggestions, feedback, and teamwork are always welcome.
 
+## 📌 Contact / Socials
 
-
-
-
-
-
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/sathira-pramudith-805284318/)
+- 🌐 [Portfolio](https://portfolio-blond-three-uy7ctuyywc.vercel.app/)
